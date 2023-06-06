@@ -1122,15 +1122,16 @@ html {
   height: 19.56rem;
 }
 .page1-child {
-  top: 0;
-  left: 0.5rem;
+  position: fixed;
+    z-index: 999;
   background-color: var(--color-gray-200);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   height: 6.81rem;
 }
 .fliqaindia-logo-1-icon {
-  position: absolute;
-  top: 1.31rem;
+ position: fixed;
+    z-index: 999;
+    top: 16px;
   left: 1.69rem;
   width: 8.25rem;
   height: 4.44rem;
@@ -1210,6 +1211,7 @@ html {
 }
 .group-div{
   cursor: pointer;
+    z-index: 999;
 }
 .group-child5,
 .group-div {
@@ -1234,6 +1236,7 @@ html {
 }
 .rectangle-container{
   cursor: pointer;
+   
 }
 .group-parent,
 .rectangle-container {
@@ -1250,6 +1253,8 @@ html {
   height: 2.06rem;
   text-align: left;
   color: var(--color-white);
+ z-index: 999;
+    position:fixed;
 }
 .page1 {
   position: relative;
