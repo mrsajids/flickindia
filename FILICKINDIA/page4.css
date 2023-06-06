@@ -1,0 +1,820 @@
+.page4-child {
+  position: absolute;
+  top: 30.37rem;
+  left: 62.08rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 6.92rem;
+  height: 2rem;
+  transform: rotate(-0.02deg);
+  transform-origin: 0 0;
+}
+.wedmegood {
+  top: 30.68rem;
+  left: 62.67rem;
+  display: inline-block;
+  width: 5.64rem;
+  height: 1.31rem;
+}
+.page4-item,
+.weddingwire,
+.wedmegood {
+  position: absolute;
+  transform: rotate(-0.02deg);
+  transform-origin: 0 0;
+}
+.page4-item {
+  top: 30.38rem;
+  left: 54.66rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 7.01rem;
+  height: 2rem;
+}
+.weddingwire {
+  top: 30.75rem;
+  left: 55.36rem;
+  display: inline-block;
+  width: 5.71rem;
+  height: 1.31rem;
+}
+.page4-inner {
+  position: absolute;
+  top: 30.88rem;
+  left: 55.44rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 7rem;
+  height: 1.81rem;
+}
+.wedmegood1 {
+  position: absolute;
+  top: 31.19rem;
+  left: 56.06rem;
+  display: inline-block;
+  width: 5.69rem;
+  height: 1.19rem;
+}
+.group-child49 {
+  position: absolute;
+  height: 58.55%;
+  width: 33.56%;
+  top: 19.34%;
+  right: 66.2%;
+  bottom: 22.1%;
+  left: 0.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  margin-left: -2rem;
+}
+.group-child50 {
+  position: absolute;
+  top: 1.38rem;
+  left: 1.5rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 7.56rem;
+  height: 12.06rem;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 4.81rem;
+  left: 2.25rem;
+  display: inline-block;
+  width: 6.44rem;
+  height: 3.75rem;
+}
+.ramdom-name {
+  position: absolute;
+  top: 10.94rem;
+  left: 0;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 10.38rem;
+  height: 1.31rem;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 5.19rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 3.69rem;
+  object-fit: cover;
+}
+.rectangle-parent25 {
+  position: absolute;
+  top: 0.38rem;
+  left: 0;
+  width: 10.38rem;
+  height: 13.44rem;
+}
+.group-child51 {
+  position: absolute;
+  top: 1.88rem;
+  left: 1.19rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 7.63rem;
+  height: 12.06rem;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 5.25rem;
+  left: 1.94rem;
+  display: inline-block;
+  width: 6.56rem;
+  height: 3.75rem;
+}
+.ramdom-name1 {
+  position: absolute;
+  top: 11.25rem;
+  left: 0;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 10.38rem;
+  height: 1.38rem;
+}
+.group-child52 {
+  position: absolute;
+  top: 0;
+  left: 4.38rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 3.69rem;
+  object-fit: cover;
+}
+.group-child53,
+.rectangle-parent26 {
+  position: absolute;
+  top: 0.06rem;
+  left: 8.44rem;
+  width: 10.38rem;
+  height: 13.94rem;
+}
+.group-child53 {
+  top: 1.56rem;
+  left: 1.06rem;
+  border-radius: var(--br-mini);
+  width: 8.06rem;
+  height: 12.56rem;
+}
+.lorem-ipsum-dolor-container2 {
+  position: absolute;
+  top: 5.25rem;
+  left: 1.44rem;
+  display: inline-block;
+  width: 6.5rem;
+  height: 3.69rem;
+}
+.ramdom-name2 {
+  position: absolute;
+  top: 11.56rem;
+  left: 0;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 10.38rem;
+  height: 1.44rem;
+}
+.group-child54 {
+  position: absolute;
+  top: 0;
+  left: 3.94rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 3.69rem;
+  object-fit: cover;
+}
+.vector-parent4 {
+  position: absolute;
+  top: 0;
+  left: 16.75rem;
+  width: 10.38rem;
+  height: 13.63rem;
+}
+.group-child55 {
+  position: absolute;
+  top: 1.69rem;
+  left: 1.56rem;
+  border-radius: var(--br-mini);
+  width: 7.75rem;
+  height: 12.56rem;
+}
+.lorem-ipsum-dolor-container3 {
+  position: absolute;
+  top: 5.25rem;
+  left: 2.25rem;
+  display: inline-block;
+  width: 6.44rem;
+  height: 3.38rem;
+}
+.ramdom-name3 {
+  position: absolute;
+  top: 11.56rem;
+  left: 0;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 10.28rem;
+  height: 1.24rem;
+}
+.group-child56 {
+  position: absolute;
+  top: 0;
+  left: 4.69rem;
+  border-radius: 50%;
+  width: 4.5rem;
+  height: 3.69rem;
+  object-fit: cover;
+}
+.group-parent16,
+.vector-parent5 {
+  position: absolute;
+  top: 0.06rem;
+  left: 24.25rem;
+  width: 10.28rem;
+  height: 13.75rem;
+}
+.group-parent16 {
+  top: 6.25rem;
+  left: 17.63rem;
+  width: 34.53rem;
+  height: 14rem;
+  color: var(--color-white);
+}
+.testimonials,
+.words-from-our {
+  position: absolute;
+  display: inline-block;
+}
+.words-from-our {
+  top: 2.68rem;
+  left: 0.16rem;
+  width: 11.65rem;
+  height: 1.7rem;
+}
+.testimonials {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-itoya-bold);
+  color: var(--color-dimgray);
+  width: 6.74rem;
+  height: 1.9rem;
+}
+.words-from-our-clients-parent {
+  position: absolute;
+  top: 1.38rem;
+  left: 14.63rem;
+  width: 11.81rem;
+  height: 4.38rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-itoya-light);
+}
+.group-child57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-cadetblue);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4.89rem;
+  height: 1.63rem;
+  cursor: pointer;
+}
+.google {
+  position: absolute;
+  top: 0.38rem;
+  left: 1.31rem;
+  display: inline-block;
+  width: 2.19rem;
+  height: 1.06rem;
+}
+.group-child58,
+.rectangle-parent27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.89rem;
+  height: 1.63rem;
+}
+.rectangle-parent27 {
+  color: var(--color-white);
+}
+.group-child58 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+}
+.facebook {
+  position: absolute;
+  top: 0.31rem;
+  left: 1.08rem;
+  display: inline-block;
+  width: 3.06rem;
+  height: 1.06rem;
+}
+.rectangle-parent28,.rectangle-parent29,
+.rectangle-parent30,.rectangle-parent27{
+  cursor: pointer;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 0;
+  left: 5.42rem;
+  width: 4.89rem;
+  height: 1.63rem;
+}
+.wedmegood2 {
+  position: absolute;
+  top: 0.38rem;
+  left: 0.64rem;
+  display: inline-block;
+  width: 4.06rem;
+  height: 1.06rem;
+}
+.group-child60,
+.rectangle-parent29 {
+  position: absolute;
+  top: 0;
+  height: 1.63rem;
+}
+.rectangle-parent29 {
+  left: 16.23rem;
+  width: 4.89rem;
+}
+.group-child60 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4.86rem;
+}
+.weddingwire1 {
+  position: absolute;
+  top: 0.31rem;
+  left: 0.47rem;
+  display: inline-block;
+  width: 4.19rem;
+  height: 1.06rem;
+}
+.group-parent17,
+.rectangle-parent30 {
+  position: absolute;
+  top: 0;
+  left: 10.84rem;
+  width: 4.86rem;
+  height: 1.63rem;
+}
+.group-parent17 {
+  left: 28.88rem;
+  width: 21.13rem;
+  font-size: var(--font-size-3xs);
+}
+.group-child61 {
+  position: absolute;
+  top: 24.5rem;
+  left: 0;
+  width: 49.5rem;
+  height: 0.25rem;
+}
+.group-parent15 {
+  position: absolute;
+  height: 45.73%;
+  width: 96.13%;
+  top: 54.27%;
+  right: -1.78%;
+  bottom: 0;
+  left: 5.65%;
+  font-size: var(--font-size-2xs);
+}
+.group-child62 {
+  position: absolute;
+  top: 5.31rem;
+  left: 0;
+  background-color: #badcdc;
+  box-shadow: 0 261px 124px #fff inset;
+  width: 54.25rem;
+  height: 19.44rem;
+}
+.best-offers,
+.discover-the-best {
+  position: absolute;
+  display: inline-block;
+}
+.best-offers {
+  top: 0;
+  left: 8.88rem;
+  width: 24rem;
+  height: 2.85rem;
+}
+.discover-the-best {
+  top: 2.77rem;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-itoya-light);
+  color: var(--color-black);
+  width: 41.5rem;
+  height: 2.54rem;
+}
+.best-offers-parent {
+  position: absolute;
+  top: 0;
+  left: 6.81rem;
+  width: 41.5rem;
+  height: 5.31rem;
+}
+.group-child63,
+.image-77-icon,
+.image-781 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-2xs);
+}
+.group-child63 {
+  left: 0.47rem;
+  background-color: var(--color-white);
+  box-shadow: 4px 5px 9px 3px rgba(0, 0, 0, 0.25);
+  width: 8.45rem;
+  height: 13.19rem;
+}
+.image-77-icon,
+.image-781 {
+  width: 8.48rem;
+  height: 11.44rem;
+}
+.image-77-icon {
+  left: 0.47rem;
+  object-fit: cover;
+}
+.image-781 {
+  left: 0.44rem;
+  background-color: rgba(0, 0, 0, 0.27);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25);
+}
+.discount {
+  position: absolute;
+  top: 7.94rem;
+  left: 0;
+  font-family: var(--font-jejugothic);
+  display: inline-block;
+  width: 6.94rem;
+  height: 0.88rem;
+}
+.book-now,
+.wedding-packages {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.56rem;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 9.13rem;
+  height: 1.88rem;
+}
+.book-now {
+  top: 12rem;
+  left: 2.06rem;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 5.88rem;
+  height: 0.56rem;
+}
+.book-now,.book-now3{
+  cursor: pointer;
+}
+.group-child64 {
+  position: absolute;
+  top: 3.99rem;
+  left: 0.96rem;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 7.36rem;
+  height: 0.06rem;
+}
+.images50-removebg-preview-2-icon {
+  position: absolute;
+  top: 8.88rem;
+  left: 0.63rem;
+  width: 6.31rem;
+  height: 3rem;
+  object-fit: cover;
+}
+.rectangle-parent32 {
+  position: absolute;
+  top: 0.06rem;
+  left: 0;
+  width: 9.69rem;
+  height: 13.19rem;
+}
+.group158-child,
+.image-77-icon1,
+.image-782 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-2xs);
+}
+.group158-child {
+  height: 100%;
+  width: 99.18%;
+  right: 0.41%;
+  bottom: 0;
+  left: 0.41%;
+  background-color: var(--color-white);
+  box-shadow: 4px 5px 9px 3px rgba(0, 0, 0, 0.25);
+}
+.image-77-icon1,
+.image-782 {
+  height: 86.76%;
+  width: 99.59%;
+  bottom: 13.24%;
+}
+.image-77-icon1 {
+  right: 0;
+  left: 0.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-782 {
+  right: 0.41%;
+  left: 0;
+  background-color: var(--color-gray-600);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25);
+}
+.text,
+.website-design1 {
+  position: absolute;
+  display: inline-block;
+}
+.website-design1 {
+  height: 14.22%;
+  width: 85.14%;
+  top: 9%;
+  left: 7.34%;
+  font-size: var(--font-size-5xl);
+}
+.text {
+  height: 4.41%;
+  top: 91.76%;
+  left: 49.59%;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.group158-item {
+  position: absolute;
+  height: 0.47%;
+  width: 86.39%;
+  top: 31.68%;
+  right: 7.42%;
+  bottom: 67.85%;
+  left: 6.19%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.images50-removebg-preview-2-icon1 {
+  position: absolute;
+  height: 22.65%;
+  width: 65.98%;
+  top: 64.93%;
+  right: 34.02%;
+  bottom: 12.42%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book-now1,
+.discount1 {
+  position: absolute;
+  display: inline-block;
+}
+.discount1 {
+  height: 17.54%;
+  width: 81.47%;
+  top: 59.72%;
+  left: -7.34%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jejugothic);
+}
+.book-now1 {
+  height: 4.27%;
+  width: 68.99%;
+  top: 91.94%;
+  left: 14.68%;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.group158,
+.image-783 {
+  position: absolute;
+  top: 0;
+}
+.group158 {
+  left: 13.75rem;
+  width: 8.52rem;
+  height: 13.19rem;
+  font-size: var(--font-size-mini);
+}
+.image-783 {
+  left: 0.44rem;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-600);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25);
+  width: 8.48rem;
+  height: 11.44rem;
+}
+.discount2 {
+  top: 7.63rem;
+  left: 0;
+  font-family: var(--font-jejugothic);
+  width: 6.69rem;
+  height: 0.88rem;
+}
+.beach-photography,
+.book-now2,
+.discount2 {
+  position: absolute;
+  display: inline-block;
+}
+.beach-photography {
+  top: 0.56rem;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  width: 9.63rem;
+  height: 4rem;
+}
+.book-now2 {
+  top: 12.19rem;
+  left: 1.81rem;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 5.88rem;
+  height: 0.56rem;
+}
+.images50-removebg-preview-2-icon2 {
+  position: absolute;
+  top: 9.25rem;
+  left: 0.44rem;
+  width: 5.81rem;
+  height: 1.56rem;
+  object-fit: cover;
+}
+.rectangle-parent33 {
+  position: absolute;
+  top: 0.06rem;
+  left: 26.44rem;
+  width: 9.63rem;
+  height: 13.19rem;
+}
+.group-child67,
+.image-77-icon3,
+.image-784 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-2xs);
+}
+.group-child67 {
+  left: 0.04rem;
+  background-color: var(--color-white);
+  box-shadow: 4px 5px 9px 3px rgba(0, 0, 0, 0.25);
+  width: 8.45rem;
+  height: 13.19rem;
+}
+.image-77-icon3,
+.image-784 {
+  width: 8.48rem;
+  height: 11.44rem;
+}
+.image-77-icon3 {
+  left: 0.04rem;
+  object-fit: cover;
+}
+.image-784 {
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.46);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25);
+}
+.discount3 {
+  position: absolute;
+  top: 7.25rem;
+  left: 0.5rem;
+  font-family: var(--font-jejugothic);
+  display: inline-block;
+  width: 5.69rem;
+  height: 0.88rem;
+}
+.book-now3,
+.wedding-packages1 {
+  position: absolute;
+  top: 0.44rem;
+  left: 0.19rem;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 8.13rem;
+  height: 3.81rem;
+}
+.book-now3 {
+  top: 12.19rem;
+  left: 1.25rem;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 5.88rem;
+  height: 0.56rem;
+}
+.group-child68 {
+  position: absolute;
+  top: 3.99rem;
+  left: 0.53rem;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 7.36rem;
+  height: 0.06rem;
+}
+.images50-removebg-preview-2-icon3 {
+  position: absolute;
+  top: 8.5rem;
+  left: 0.56rem;
+  width: 5.62rem;
+  height: 2.99rem;
+  object-fit: cover;
+}
+.group-parent18,
+.rectangle-parent34 {
+  position: absolute;
+  top: 0.06rem;
+  left: 40.69rem;
+  width: 8.52rem;
+  height: 13.19rem;
+}
+.group-parent18 {
+  top: 7.94rem;
+  left: 0.5rem;
+  width: 49.2rem;
+  height: 13.25rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-josefin-sans);
+}
+.group-child69 {
+  position: absolute;
+  top: 8.38rem;
+  left: 11.75rem;
+  width: 27rem;
+  height: 12.75rem;
+  cursor: pointer;
+}
+.group-child70 {
+  position: absolute;
+  top: 27.75rem;
+  left: 1.5rem;
+  width: 49.5rem;
+  height: 0.25rem;
+}
+.rectangle-parent31 {
+  position: absolute;
+  top: 0;
+  left: 1.88rem;
+  width: 54.25rem;
+  height: 28rem;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-itoya-bold);
+}
+.frame-div {
+  position: absolute;
+  top: 56.13rem;
+  left: 0;
+  width: 56.06rem;
+  height: 69.63rem;
+  overflow: hidden;
+}
+.page4 {
+  position: relative;
+  width: 100%;
+  height: 54.13rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,674 @@
+.group-child40 {
+  border-radius: 7px;
+  background-color: #ddf9ff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.rectangle-wrapper{
+  cursor: pointer;
+}
+.group-child40,
+.rectangle-wrapper,
+.view-more-weddings {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25rem;
+  height: 3.85rem;
+}
+.view-more-weddings {
+  display: inline-block;
+  width: 19.24rem;
+  height: 1.79rem;
+}
+.arrow-icon {
+  position: absolute;
+  top: -0.23rem;
+  left: 20.21rem;
+  width: 1.8rem;
+  height: 1.38rem;
+}
+.group-wrapper,
+.view-more-weddings-parent {
+  position: absolute;
+  top: 0.96rem;
+  left: 1.7rem;
+  width: 21.92rem;
+  height: 1.79rem;
+}
+.group-wrapper {
+  top: 27.69rem;
+  left: 14.5rem;
+  width: 25rem;
+  height: 3.85rem;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.group-child41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #fbdada;
+  box-shadow: 0 6px 7px rgba(0, 0, 0, 0.39);
+  width: 11.58rem;
+  height: 15.69rem;
+  opacity: 0.6;
+}
+.danielle-ronnie {
+  margin: 0;
+}
+.photos-kitterypolland {
+  margin: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  color: var(--color-dimgray);
+}
+.danielle-ronnie-container {
+  position: absolute;
+  top: 12.32rem;
+  left: 0.64rem;
+  line-height: 159%;
+  display: inline-block;
+  width: 18.07rem;
+  height: 3.37rem;
+}
+.rectangle-parent20,.group-child41,
+.group-child44{
+  cursor: pointer;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 7.13rem;
+  left: 13.83rem;
+  width: 18.72rem;
+  height: 15.69rem;
+}
+.group-child42 {
+  position: absolute;
+  top: calc(50% - 125.5px);
+  left: calc(50% - 149.25px);
+  border-radius: var(--br-3xs);
+  background-color: #fff9d9;
+  box-shadow: 0 6px 7px rgba(0, 0, 0, 0.39);
+  width: 11.01rem;
+  height: 15.69rem;
+  opacity: 0.6;
+}
+.danielle-ronnie-container1 {
+  position: absolute;
+  top: calc(50% + 65.26px);
+  left: calc(50% - 125.76px);
+  line-height: 159%;
+  display: inline-block;
+  width: 17.19rem;
+  height: 3.37rem;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: calc(50% - 152px);
+  left: calc(50% + 24.37px);
+  width: 18.66rem;
+  height: 15.69rem;
+}
+.group-child43,
+.group-child44 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 6px 7px rgba(0, 0, 0, 0.39);
+  height: 15.69rem;
+  opacity: 0.6;
+}
+.group-child43 {
+  top: calc(50% - 123.5px);
+  left: 41.49rem;
+  background-color: #dde4ff;
+  width: 10.78rem;
+}
+.group-child44 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan-100);
+  width: 11.58rem;
+}
+.image-56-icon,
+.image-59-icon {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+.image-56-icon {
+  top: 8.75rem;
+  width: 3.62rem;
+  height: 2.89rem;
+}
+.image-59-icon {
+  top: 0;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 10.98rem;
+  height: 8.67rem;
+}
+.image-57-icon,
+.image-90-icon {
+  position: absolute;
+  top: 8.75rem;
+  left: 3.68rem;
+  width: 3.62rem;
+  height: 2.89rem;
+  object-fit: cover;
+}
+.image-90-icon {
+  left: 7.36rem;
+}
+.image-56-parent {
+  position: absolute;
+  top: 0.52rem;
+  left: 0.3rem;
+  width: 10.98rem;
+  height: 11.64rem;
+}
+.danielle-ronnie-container2 {
+  position: absolute;
+  top: 12.32rem;
+  left: 1.03rem;
+  line-height: 159%;
+  display: inline-block;
+  width: 18.07rem;
+  height: 3.37rem;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 19.1rem;
+  height: 15.69rem;
+}
+.image-56-group {
+  position: absolute;
+  top: 0.52rem;
+  left: 14.13rem;
+  width: 10.98rem;
+  height: 11.64rem;
+}
+.image-56-icon2,
+.image-59-icon2 {
+  position: absolute;
+  top: calc(50% + 46.86px);
+  left: calc(50% - 83.54px);
+  width: 3.44rem;
+  height: 2.89rem;
+  object-fit: cover;
+}
+.image-59-icon2 {
+  top: calc(50% - 93.08px);
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 10.44rem;
+  height: 8.67rem;
+}
+.image-57-icon2,
+.image-90-icon2 {
+  position: absolute;
+  top: calc(50% + 46.86px);
+  left: calc(50% - 27.51px);
+  width: 3.44rem;
+  height: 2.89rem;
+  object-fit: cover;
+}
+.image-90-icon2 {
+  left: calc(50% + 28.52px);
+}
+.image-56-container {
+  position: absolute;
+  top: calc(50% - 113.15px);
+  left: calc(50% + 31.14px);
+  width: 10.44rem;
+  height: 11.64rem;
+}
+.image-56-icon3,
+.image-59-icon3 {
+  position: absolute;
+  top: calc(50% + 46.86px);
+  left: 0;
+  width: 3.37rem;
+  height: 2.89rem;
+  object-fit: cover;
+}
+.image-59-icon3 {
+  top: calc(50% - 93.08px);
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 10.23rem;
+  height: 8.67rem;
+}
+.image-57-icon3,
+.image-90-icon3 {
+  position: absolute;
+  top: calc(50% + 46.86px);
+  left: 3.43rem;
+  width: 3.37rem;
+  height: 2.89rem;
+  object-fit: cover;
+}
+.image-90-icon3 {
+  left: 6.86rem;
+}
+.image-56-parent1 {
+  position: absolute;
+  top: calc(50% - 113.15px);
+  left: 41.76rem;
+  width: 10.23rem;
+  height: 11.64rem;
+}
+.group-parent11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 51.99rem;
+  height: 15.69rem;
+  cursor: pointer;
+}
+.danielle-ronnie-container3 {
+  position: absolute;
+  top: calc(50% + 71.5px);
+  left: 42.63rem;
+  line-height: 159%;
+  display: inline-block;
+  width: 9.13rem;
+  height: 3.38rem;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: calc(50% - 156px);
+  left: 0;
+  width: 52.27rem;
+  height: 15.94rem;
+}
+.real-wedding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 24rem;
+  height: 2.11rem;
+}
+.list-your-wedding-container {
+  position: absolute;
+  top: 3.19rem;
+  left: 0.31rem;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-itoya-light);
+  color: var(--color-black);
+  display: inline-block;
+  width: 41.5rem;
+  height: 1.88rem;
+}
+.real-wedding-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41.81rem;
+  height: 5.07rem;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-itoya-bold);
+}
+.group-child45,
+.group-parent9 {
+  position: absolute;
+  top: 33.5rem;
+  left: 2.12rem;
+  width: 49.5rem;
+  height: 0.25rem;
+}
+.group-parent9 {
+  top: 21.44rem;
+  left: 1rem;
+  width: 52.27rem;
+  height: 33.75rem;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.group-child46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan-100);
+  width: 55.25rem;
+  height: 17.49rem;
+}
+.fliqaindia-wedding-icon,
+.group-child47 {
+  position: absolute;
+  border-radius: var(--br-2xs);
+}
+.fliqaindia-wedding-icon {
+  height: 110.08%;
+  width: 105.6%;
+  top: 0.72%;
+  right: -2.8%;
+  bottom: -10.8%;
+  left: -2.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child47 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 11.41rem;
+  height: 7.98rem;
+  opacity: 0.68;
+}
+.fliqaindia-wedding-parent {
+  position: absolute;
+  height: 82.46%;
+  width: 46.82%;
+  top: 0;
+  right: 53.18%;
+  bottom: 17.54%;
+  left: 0;
+}
+.featured-on-sep,
+.wedding-photography-at {
+  position: absolute;
+  left: 0;
+  line-height: 100%;
+  display: inline-block;
+}
+.featured-on-sep {
+  top: 0;
+  width: 11.78rem;
+  height: 2.55rem;
+}
+.wedding-photography-at {
+  top: 1.16rem;
+  font-size: 1.75rem;
+  width: 10.33rem;
+  height: 7.37rem;
+}
+.featured-on-sep-15-202-parent {
+  position: absolute;
+  top: 1.11rem;
+  left: 1.06rem;
+  width: 11.78rem;
+  height: 8.52rem;
+}
+.group-child48,
+.wedding-trailer-icon {
+  position: absolute;
+  border-radius: var(--br-2xs);
+}
+.wedding-trailer-icon {
+  height: 91.47%;
+  width: 105.6%;
+  top: 0;
+  right: -2.8%;
+  bottom: 8.53%;
+  left: -2.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child48 {
+  top: 0.01rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 9.88rem;
+  height: 7.94rem;
+  opacity: 0.68;
+}
+.photography-expectations-vs-container {
+  position: absolute;
+    top: 1.38rem;
+    left: 0.44rem;
+    display: inline-block;
+    width: 8.63rem;
+    height: 7.38rem;
+}
+.featured-on-sep-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 114%;
+  display: inline-block;
+  width: 9.5rem;
+  height: 1.38rem;
+}
+.photography-expectations-vs-parent {
+  position: absolute;
+  top: 1.01rem;
+  left: 0.38rem;
+  width: 9.5rem;
+  height: 8.75rem;
+}
+.wedding-trailer-parent {
+  position: absolute;
+  height: 99.4%;
+  width: 46.82%;
+  top: 0.6%;
+  right: 0;
+  bottom: 0;
+  left: 53.18%;
+  font-size: 1.44rem;
+}
+.group-parent12 {
+  position: absolute;
+  height: 56.16%;
+  width: 60.41%;
+  top: 41.04%;
+  right: 35.75%;
+  bottom: 2.79%;
+  left: 3.85%;
+}
+.fliqaindia-wedding-2 {
+  position: absolute;
+  height: 117.89%;
+  width: 30.5%;
+  top: 3.61%;
+  right: 71.99%;
+  bottom: -21.5%;
+  left: -2.49%;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.creative-industries-are-on-the {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.creative-industries-are-container {
+  position: absolute;
+  top: 0;
+  left: 5.06rem;
+  line-height: 114%;
+  display: inline-block;
+  width: 12.53rem;
+  height: 3.02rem;
+  cursor: pointer;
+}
+.fliqaindia-wedding-2-parent {
+  position: absolute;
+  height: 29.33%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 70.67%;
+  left: 0;
+}
+.fliqaindia-wedding-icon1 {
+  position: absolute;
+  height: 116.38%;
+  width: 30.35%;
+  top: 4.85%;
+  right: 72.14%;
+  bottom: -21.23%;
+  left: -2.5%;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.photography-expectations-vs1 {
+  line-height: 122%;
+}
+.photography-expectations-vs {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.most-of-the {
+  margin: 0;
+  line-height: 114%;
+}
+.photography-expectations-vs-container1 {
+  position: absolute;
+  top: 0;
+  left: 5rem;
+  display: inline-block;
+  width: 12.53rem;
+  height: 3.12rem;
+  cursor: pointer;
+}
+.fliqaindia-wedding-group {
+  position: absolute;
+  height: 29.71%;
+  width: 99.64%;
+  top: 35.14%;
+  right: 0.36%;
+  bottom: 35.15%;
+  left: 0;
+}
+.wedding-trailer-icon1 {
+  position: absolute;
+  height: 122.6%;
+  width: 119.49%;
+  top: 0;
+  right: -9.75%;
+  bottom: -22.6%;
+  left: -9.75%;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-wrapper1,
+.wedding-trailer-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-wrapper1 {
+  height: 96.8%;
+  width: 25.53%;
+  top: 3.2%;
+  right: 74.47%;
+}
+.wedding-photography-at-container {
+  position: absolute;
+  top: 0;
+  left: 5.06rem;
+  line-height: 114%;
+  display: inline-block;
+  width: 12.53rem;
+  height: 2.4rem;
+  cursor: pointer;
+}
+.group-frame,
+.group-parent13 {
+  position: absolute;
+  height: 28.83%;
+  width: 100%;
+  top: 71.17%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-parent13 {
+  height: 79.34%;
+  width: 31.83%;
+  top: 14.65%;
+  right: 1.76%;
+  bottom: 6.01%;
+  left: 66.4%;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-k2d);
+}
+.rectangle-parent24 {
+  position: absolute;
+  top: 0;
+  left: -0.25rem;
+  width: 55.25rem;
+  height: 17.49rem;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-actor);
+}
+.trending-now{
+  cursor: pointer;
+}
+.trending-now,
+.view-all {
+  position: absolute;
+  top: 0.31rem;
+  left: 35.69rem;
+  line-height: 114%;
+}
+.view-all {
+  top: 0.56rem;
+  left: 50.94rem;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  cursor: pointer;
+}
+.check-out-our,
+.our-blogs {
+  position: absolute;
+  display: inline-block;
+}
+.check-out-our {
+  top: 2.98rem;
+  left: 0.25rem;
+  width: 23.67rem;
+  height: 3.87rem;
+}
+.our-blogs {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-itoya-bold);
+  color: var(--color-dimgray);
+  width: 28.94rem;
+  height: 2.34rem;
+}
+.check-out-our-latest-blog-parent {
+  position: absolute;
+  top: 0.32rem;
+  left: 1.13rem;
+  width: 28.94rem;
+  height: 6.84rem;
+  color: var(--color-gray-500);
+  font-family: var(--font-itoya-light);
+}
+.page3 {
+  position: relative;
+  width: 100%;
+  height: 61.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-k2d);
+}

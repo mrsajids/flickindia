@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jura: Jura;
+  --font-josefin-sans: "Josefin Sans";
+  --font-jost: Jost;
+  --font-josefin-slab: "Josefin Slab";
+  --font-rubik: Rubik;
+  --font-istok-web: "Istok Web";
+  --font-bebas-neue: "Bebas Neue";
+  --font-itoya-light: Itoya-Light;
+  --font-itoya-bold: Itoya-Bold;
+  --font-homenaje: Homenaje;
+  --font-archivo: Archivo;
+  --font-jaldi: Jaldi;
+  --font-abel: Abel;
+  --font-k2d: K2D;
+  --font-actor: Actor;
+  --font-jejugothic: JejuGothic;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-mini: 0.94rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xs: 0.75rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-3xs: 0.63rem;
+  --font-size-smi: 0.81rem;
+  --font-size-sm: 0.88rem;
+  --font-size-36xl: 3.44rem;
+  --font-size-2xs: 0.69rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-400: #2c2c2c;
+  --color-gray-100: #221010;
+  --color-gray-200: #131514;
+  --color-gray-500: #0c0c0c;
+  --color-gray-600: rgba(0, 0, 0, 0.35);
+  --color-gray-700: rgba(0, 0, 0, 0.5);
+  --color-gray-800: rgba(0, 0, 0, 0.2);
+  --color-gray-300: rgba(255, 255, 255, 0.98);
+  --color-black: #000;
+  --color-dimgray: #4c696d;
+  --color-darkslategray-100: #416f75;
+  --color-darkslategray-200: #354547;
+  --color-cadetblue: #4e99a4;
+  --color-lightcyan-100: #ddf8f3;
+
+  /* border radiuses */
+  --br-4xl-5: 23.5px;
+  --br-15xl: 34px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+  --br-2xs: 11px;
+  --br-mini: 15px;
+  --br-6xl-5: 25.5px;
+  --br-5xl: 24px;
+  --br-8xs: 5px;
+}
